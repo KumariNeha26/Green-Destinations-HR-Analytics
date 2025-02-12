@@ -1,4 +1,4 @@
-# Green Destinations HR Analytics
+# Green Destinations-HR Analytics
 
 Project Overview
 This project analyzes employee attrition at Green Destinations, a well-known travel agency. The goal is to understand why employees leave, identify key influencing factors, and provide insights to improve retention strategies.
